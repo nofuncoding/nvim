@@ -16,6 +16,7 @@
   "neodev.nvim": { "branch": "main", "commit": "345ed5843405126464119154f394d4298c1314c7" },
   "noice.nvim": { "branch": "main", "commit": "bf67d70bd7265d075191e7812d8eb42b9791f737" },
   "nui.nvim": { "branch": "main", "commit": "35da9ca1de0fc4dda96c2e214d93d363c145f418" },
+  "nvim-autopairs": { "branch": "master", "commit": "096d0baecc34f6c5d8a6dd25851e9d5ad338209b" },
   "nvim-cmp": { "branch": "main", "commit": "538e37ba87284942c1d76ed38dd497e54e65b891" },
   "nvim-lspconfig": { "branch": "master", "commit": "1759ea68fbbb1303192020d3e59936189359e0ed" },
   "nvim-notify": { "branch": "master", "commit": "80b67b265530632505193553d05127ae7fe09ddd" },
@@ -25,5 +26,6 @@
   "plenary.nvim": { "branch": "master", "commit": "4f71c0c4a196ceb656c824a70792f3df3ce6bb6d" },
   "telescope.nvim": { "branch": "0.1.x", "commit": "d90956833d7c27e73c621a61f20b29fdb7122709" },
   "tokyonight.nvim": { "branch": "main", "commit": "e3301873c1e96903daebb98cc9b5926810bf73dd" },
-  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
+  "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" },
+  "xmake.nvim": { "branch": "v2", "commit": "596c0620e5375b415f4ffb6f18f82f2585fd0e0f" }
 }

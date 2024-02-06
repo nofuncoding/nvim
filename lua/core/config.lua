@@ -3,7 +3,7 @@ vim.opt.termguicolors = true
 
 -- set line number
 vim.cmd('set number')
-vim.cmd('set relativenumber')
+-- vim.cmd('set relativenumber')
 vim.cmd('set numberwidth=4')
 
 -- set indent
