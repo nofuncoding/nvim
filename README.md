@@ -1,5 +1,7 @@
 # NoFun's Nvim Config
 
-Needs Neovim 0.9+, git ssh is set
+Needs Neovim 0.10+, git ssh already set.
 
-clone all files to C:\Users\NoFun\AppData\Local\nvim to apply.
+clone all files to your neovim config folder (e.g. `C:\Users\<Someone>\AppData\Local\nvim` on Windows) to apply.
+
+All the plugins are placed in `lua/plugins`.
